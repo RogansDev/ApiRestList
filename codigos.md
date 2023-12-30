@@ -1,0 +1,37 @@
+DOCTORES "CODIGOS" {
+   DR-1 = ANGELICA CASTRO,  
+   DR-2 = ANDRES CUSPOCA,  
+   DR-3 = CAROLINA PINZÓN,  
+   DR-4 = DIANA CORDOBA.   
+   DR-5 = DAVID FORNERINO.    
+   DR-6 = ECHEVERRY.        
+   DR-7 = JONATHAN GUEVARA. 
+   DR-8 = JUAN CARLOS AYCARDI           
+   DR-9 = NATALIA PINZON.   
+   DR-10 = RAWDY.  
+}...
+
+CONSULTAS  "CODIGOS" {
+
+      CS = CODIGO GLOBAL DE CONSULTAS
+       | 
+       |--> CC1 = CUIDADO DEL CABELLO,
+            CP2 = CUIDADO DE LA PIEL.
+            RS3 = RENDIMIENTO SEXUAL.
+            SM4 = SALUD MENTAL.
+            MG5 = MEDICINA GENERAL.
+            ED6 = ESTETICA DENTAL.
+            NT7 = NUTRICION.    
+}...
+   
+
+
+PROCEDIMIENTOS "CODIGOS" {
+
+       LC = CODIGO GLOBAL DE CATEGORIA LINEA CAPILAR 
+
+       LF = CODIGO CATEGORIA FACIAL 
+
+}
+
+
